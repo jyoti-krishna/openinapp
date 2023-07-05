@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/biswas/AndroidStudioProjects/openinapp/app/src/main/res/drawable-v24/dialog.xml" value="0.1435" />
+        <entry key="..\:/Users/biswas/AndroidStudioProjects/openinapp/app/src/main/res/drawable-v24/tabs.xml" value="0.1435" />
+        <entry key="..\:/Users/biswas/AndroidStudioProjects/openinapp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Users/biswas/AndroidStudioProjects/openinapp/app/src/main/res/drawable/tab.xml" value="0.1435" />
+        <entry key="..\:/Users/biswas/AndroidStudioProjects/openinapp/app/src/main/res/drawable/tabs.xml" value="0.1" />
+        <entry key="..\:/Users/biswas/AndroidStudioProjects/openinapp/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/biswas/AndroidStudioProjects/openinapp/app/src/main/res/layout/barlayout.xml" value="0.1140625" />
+        <entry key="..\:/Users/biswas/AndroidStudioProjects/openinapp/app/src/main/res/layout/barlayout2.xml" value="0.1140625" />
+        <entry key="..\:/Users/biswas/AndroidStudioProjects/openinapp/app/src/main/res/layout/item.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/biswas/AndroidStudioProjects/openinapp/app/src/main/res/layout/tabs.xml" value="0.12916666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
